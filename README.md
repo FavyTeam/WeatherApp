@@ -1,6 +1,6 @@
-## WeatherApp
+# WeatherApp
 
-# Authentication for the Weather API.
+## Authentication for the Weather API.
 
 {
   "access_token":"ya29.Gly1BU6buKvB2NDRRGN1sxz1XinATfkHFXwxIZuOtt6Ny8bG8W6kWtfEUziXHayJMov442D-m5BsHWo3W6Rkw8VUOpg1bKWLwrCMG7HNSY_VQg1c1S-939tnmC1Npw",
@@ -10,7 +10,7 @@
   "refresh_token":"1\/6d8ZVXl0Wo1_BPTiGZo2Ll66rEcQayJxzcdGf3r8swJOP3ER7mbSIhzMscBfwzO0"
 }
 
-# Google API Authentication
+## Google API Authentication
 {
   "installed":
     {
