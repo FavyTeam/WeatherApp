@@ -1,0 +1,23 @@
+     .wecode{
+        
+            width: 40px;
+            display: inline-block;
+            margin-left: 0px;
+            margin-bottom:0px;
+            background-color: aliceblue;
+        }
+        .dd{
+            line-height: -19px;
+            
+            margin-bottom:0px;
+            
+        }
+        h6{
+            
+            margin-bottom: 0px;
+        }
+        .wicon{
+            height: 15px;
+            width: auto;
+        }
+		
